@@ -1,2 +1,18 @@
-# CodeAlpha_Calculator
-CodeAlpha Internship Task 2 - Responsive Calculator built using HTML, CSS and JavaScript with basic arithmetic operations, clean UI and interactive features like AC, DEL and ON/OFF.
+# 🧮 Calculator - CodeAlpha Internship Task 2
+
+A responsive calculator built using HTML, CSS, and JavaScript.
+
+## ✨ Features
+- Basic arithmetic operations (+, −, ×, ÷)
+- AC (Clear) and DEL (Delete) functionality
+- ON/OFF power button
+- Clean and responsive UI design
+
+## 🛠️ Tech Stack
+HTML, CSS, JavaScript
+
+## 🎯 Purpose
+This project was created as part of CodeAlpha Internship to practice DOM manipulation, event handling, and responsive UI development.
+
+## 👨‍💻 Author
+CodeAlpha Internship Project
